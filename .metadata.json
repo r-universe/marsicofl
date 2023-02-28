@@ -1,5 +1,9 @@
 [
   {
+    "package": "fbnet",
+    "oncran": true
+  },
+  {
     "package": "mispitools",
     "oncran": true
   }
