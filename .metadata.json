@@ -1,10 +1,10 @@
 [
   {
-    "package": "fbnet",
+    "package": "mispitools",
     "oncran": true
   },
   {
-    "package": "mispitools",
+    "package": "fbnet",
     "oncran": true
   }
 ]
