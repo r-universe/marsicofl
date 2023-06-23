@@ -8,6 +8,11 @@
 	url = https://github.com/marsicofl/fbnet
 	shallow = true
 	registered = true
+[submodule "forensIT"]
+	path = forensIT
+	url = https://github.com/cran/forensIT
+	shallow = true
+	registered = true
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/marsicofl/mispitools
