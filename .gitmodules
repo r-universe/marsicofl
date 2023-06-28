@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fbnet"]
 	path = fbnet
 	url = https://github.com/marsicofl/fbnet
-	shallow = true
-	registered = true
 [submodule "forensIT"]
 	path = forensIT
 	url = https://github.com/cran/forensIT
-	shallow = true
-	registered = true
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/marsicofl/mispitools
-	shallow = true
-	registered = true
