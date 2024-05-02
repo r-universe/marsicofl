@@ -8,6 +8,9 @@
 [submodule "forensIT"]
 	path = forensIT
 	url = https://github.com/cran/forensIT
+[submodule "forensicolors"]
+	path = forensicolors
+	url = https://github.com/marsicofl/forensicolors
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/marsicofl/mispitools
